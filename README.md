@@ -19,7 +19,7 @@ O Sistema de Varredura de Segurança do Servidor é uma aplicação desenvolvida
 - Sistemas Operacionais Suportados: Linux
 
 ## Pré-requisitos
-1. Instalação do Python 3: Certifique-se de ter o Python 3.x instalado em seu sistema.
+1. Instalação do Python 3: Certifique-se de ter o Python 3 instalado em seu sistema.
 2. Instalação do OWASP ZAP: Faça o download e a instalação do OWASP ZAP a partir do site oficial, seguindo as instruções específicas para o seu sistema operacional.
 
 ## Como Executar o Sistema
