@@ -14,7 +14,7 @@ O Sistema de Varredura de Segurança do Servidor é uma aplicação desenvolvida
 
 
 ## Tecnologias Utilizadas
-- Linguagem de Programação: Python 3.x
+- Linguagem de Programação: Python 3
 - Bibliotecas Python: [OWASP ZAP](https://www.zaproxy.org/), time
 - Sistemas Operacionais Suportados: Linux
 
@@ -48,4 +48,4 @@ Após a conclusão da varredura, o sistema apresentará os resultados em uma int
 Utilize as informações fornecidas pelo sistema para corrigir as vulnerabilidades encontradas em seu servidor.
 
 ## Considerações Finais
-O Sistema de Varredura de Segurança do Servidor é uma ferramenta poderosa para identificar vulnerabilidades em seu servidor e ajudar a melhorar a segurança do sistema. É importante lembra
+O Sistema de Varredura de Segurança do Servidor é uma ferramenta poderosa para identificar vulnerabilidades em seu servidor e ajudar a melhorar a segurança do sistema.
